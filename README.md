@@ -6,7 +6,6 @@
     <h1>Find me around the web 🌎:</h1>
     <div  style="display: flex; flex-wrap:wrap;">
         <div>
-            <h3>Find me around the web 🌎:</h3>
             <ul>
                 <li> Learning in public on Twitch 📹 ✍🏾</li>
                 <li> Sharing updates on LinkedIn 💼</li>
